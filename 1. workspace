@@ -1,0 +1,27 @@
+1) WSL 2
+-https://learn.microsoft.com/en-us/windows/wsl/install
+
+2) Ubuntu Linux 22.04
+- microsoft store
+
+2.1) Linux base commands
+
+
+3) Visual Studio Code
+- https://code.visualstudio.com/download
+
+4) VSC personalization
+- Python
+- Pylance
+- WSL
+- Monokai-Contrast
+
+Keywords:
+- ctrl + d = сәйкес сөздерді көшіреді
+- alt + <- = артқа жылжу
+- alt + -> = алға жылжу
+- alt + shift + up = жоғарыға көшіру
+- alt + shift + down = төменге көшіру
+
+5) Oh My Zshell
+- https://dev.to/contactsunny/installing-zsh-and-oh-my-zsh-on-windows-11-with-wsl2-1p5i
